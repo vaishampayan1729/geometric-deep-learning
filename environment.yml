@@ -1,0 +1,31 @@
+name: gdl
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - networkx
+  - sympy
+  - scikit-learn
+  - geomstats
+  - gudhi
+  - jupyterlab
+  - ipykernel
+  - pip
+
+  - pip:
+      - torch==2.14.0
+      - torchvision==0.29.0
+      - torchaudio==2.11.0
+      - torch-geometric==2.8.0.post1
+      - pyg-nightly==2.9.0.dev20260922
+      - e3nn==0.6.0
+      - toponetx==0.4.0
+      - topomodelx==0.0.1
