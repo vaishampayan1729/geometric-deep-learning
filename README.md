@@ -57,17 +57,22 @@ questions that are not immediately apparent from the formal definition.
 
 ## Organization
 
-The notebooks follow the structure of the GDL proto-book:
+The notebooks follow the structure of the GDL proto-book, but build the prerequisites
+whenever needed:
 
 ```text
 notebooks/
-├── 01_*.ipynb
-├── 02_*.ipynb
-├── 03_*.ipynb
-├── ...
-└── ...
+├── 01_sets_and_map.ipynb
+├── 02_groups.ipynb
+├── 03_linear_spaces.ipynb
+├── 04_learning_in_high_dimension.ipynb
+├── 05_geometric_priors-i.ipynb
+├── 06_functional_analysis.ipynb
+├── 07_fourier_analysis.ipynb
+└──
+
+
 ```
-There will be one notebook for each section of the proto-book.
 
 The notebooks will be developed nonlinearly. For example, an experiment
 motivated by a later section may lead to additions to an earlier notebook.
