@@ -69,7 +69,10 @@ notebooks/
 ├── 05_geometric_priors-i.ipynb
 ├── 06_functional_analysis.ipynb
 ├── 07_fourier_analysis.ipynb
-└──
+├── 08_wavelets_and_multiscale_signal_processing.ipynb
+├── 09_geometric_priors-ii.ipynb
+├── 10_pytorch_geometric_tutorial.ipynb
+└── 11_graph_theory_fundamentals.ipynb
 
 
 ```
