@@ -74,7 +74,8 @@ notebooks/
 ├── 10_pytorch_geometric_tutorial.ipynb
 ├── 11_graph_theory_fundamentals.ipynb
 ├── 12_gnn_1.ipynb
-└── 13_grids_euclidean.ipynb
+├── 13_grids_euclidean.ipynb
+└── 14_linear_groups.ipynb
 
 
 
