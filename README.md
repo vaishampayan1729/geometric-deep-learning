@@ -75,7 +75,8 @@ notebooks/
 ├── 11_graph_theory_fundamentals.ipynb
 ├── 12_gnn_1.ipynb
 ├── 13_grids_euclidean.ipynb
-└── 14_linear_groups.ipynb
+├── 14_linear_groups.ipynb
+└── 15_homogenous_spaces.ipynb
 
 
 
@@ -110,28 +111,29 @@ The environment includes, among other packages:
 
 The exact set of dependencies will evolve as the project develops.
 
-## Project structure
+## Repository Structure
+
 ```text
 geometric-deep-learning/
-│
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-│
+├── environment.yml
 ├── notebooks/
-│   └── Section notebooks
-│
 ├── code/
-│   └── Reusable implementations
-│
-└── figures/
-    └── Figures used across notebooks
+├── figures/
+└── example-projects/
 ```
-The notebooks are the primary component of the project.
 
-The code/ directory will contain reusable implementations when they emerge
-naturally from the experiments. The figures/ directory is reserved for
-figures that are useful outside an individual notebook.
+- **`notebooks/`** — Mathematical and computational notes, following the development of Geometric Deep Learning concepts.
+- **`code/`** — Reusable implementations that emerge naturally from the notebooks.
+- **`figures/`** — Figures and visualizations reused across notebooks or projects.
+- **`example-projects/`** — Self-contained projects that apply concepts developed throughout the course to concrete datasets and problems. These projects will evolve as the course progresses, incorporating new mathematical ideas, computational techniques, and experimental observations.
+
+## Example Projects
+
+The `example-projects/` directory contains applications that develop alongside the course. Rather than being fixed exercises, these projects provide a space to experiment with the concepts introduced in the notebooks, test hypotheses, compare methods, and explore research questions.
+
+Each project may include its own README, notebooks, implementation code, visualizations, and experimental results, depending on its needs.
 
 ## Status
 
