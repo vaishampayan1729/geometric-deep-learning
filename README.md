@@ -79,7 +79,8 @@ notebooks/
 ├── 15_homogenous_spaces.ipynb
 ├── 16_vector_calculus.ipynb
 ├── 17_topological_foundations.ipynb
-└── 18_euclidean_spaces.ipynb
+├── 18_euclidean_spaces.ipynb
+└── 19_manifolds.ipynb
 
 
 
