@@ -77,7 +77,8 @@ notebooks/
 ├── 13_grids_euclidean.ipynb
 ├── 14_linear_groups.ipynb
 ├── 15_homogenous_spaces.ipynb
-└── 16_vector_calculus.ipynb
+├── 16_vector_calculus.ipynb
+└── 17_topological_foundations.ipynb
 
 
 
