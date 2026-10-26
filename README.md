@@ -81,7 +81,8 @@ notebooks/
 ├── 17_topological_foundations.ipynb
 ├── 18_euclidean_spaces.ipynb
 ├── 19_manifolds.ipynb
-└── 20_riemannian_geom.ipynb
+├── 20_riemannian_geom.ipynb
+└── 21_curves_and_surfaces.ipynb
 
 
 
