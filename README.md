@@ -80,7 +80,8 @@ notebooks/
 ├── 16_vector_calculus.ipynb
 ├── 17_topological_foundations.ipynb
 ├── 18_euclidean_spaces.ipynb
-└── 19_manifolds.ipynb
+├── 19_manifolds.ipynb
+└── 20_riemannian_geom.ipynb
 
 
 
