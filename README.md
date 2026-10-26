@@ -82,7 +82,9 @@ notebooks/
 ├── 18_euclidean_spaces.ipynb
 ├── 19_manifolds.ipynb
 ├── 20_riemannian_geom.ipynb
-└── 21_curves_and_surfaces.ipynb
+├── 21_curves_and_surfaces.ipynb
+├── 22_fourier_manifolds.ipynb
+└── 
 
 
 
