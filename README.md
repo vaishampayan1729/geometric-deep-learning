@@ -84,6 +84,7 @@ notebooks/
 ├── 20_riemannian_geom.ipynb
 ├── 21_curves_and_surfaces.ipynb
 ├── 22_fourier_manifolds.ipynb
+├── 23_bundles_gauges.ipynb
 └── 
 
 
