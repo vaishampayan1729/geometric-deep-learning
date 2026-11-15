@@ -85,6 +85,7 @@ notebooks/
 ├── 21_curves_and_surfaces.ipynb
 ├── 22_fourier_manifolds.ipynb
 ├── 23_bundles_gauges.ipynb
+├── 24_graph_laplacian.ipynb
 └── 
 
 
