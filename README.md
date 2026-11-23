@@ -86,6 +86,7 @@ notebooks/
 ├── 22_fourier_manifolds.ipynb
 ├── 23_bundles_gauges.ipynb
 ├── 24_graph_laplacian.ipynb
+├── 25_meshes.ipynb
 └── 
 
 
